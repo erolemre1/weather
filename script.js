@@ -1,4 +1,4 @@
-const url ="http://api.openweathermap.org/data/2.5/"
+const url =env.URL
 const key = env.API_KEY
 
 const setQuery = (e) => {
